@@ -15,11 +15,17 @@ the entities that are present in each resume into predefined classes such as per
 # Task
 
 Problem Understanding
+
 Data Annotation
+
 Named Entity Recognition(NER)
+
 Model Building & Training
+
 Performance Evaluation & Reporting
+
 Model Deployment
+
 Model Inference
  
 
